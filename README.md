@@ -1,78 +1,104 @@
-# 👋 **Hi, I'm Emiliano Rozas!**
+# 👋 Hi, I’m Emiliano Rozas (HxrmX)
 
-**Team Lead | Full-Stack Developer | Passionate About Building and Leading Tech Solutions**  
-📍 **Barcelona, Spain**
-
----
-
-## 🚀 **About Me**
-
-I’m a results-driven **Team Lead** and **Full-Stack Developer** with a strong background in **team leadership, account management**, and **customer care**. Recently, I transitioned into **web development**, specializing in the **MERN stack** (MongoDB, Express, React, Node.js). I thrive on solving complex problems, optimizing workflows, and developing efficient, user-centric applications.
-
-🔹 **Key Skills**:  
-- **Frontend**: React, Tailwind CSS, JavaScript, HTML, CSS  
-- **Backend**: Node.js, Express, MongoDB, JWT, bcrypt  
-- **Tools**: Git, GitHub, Figma, Mocha & Chai (Testing)  
-- **Soft Skills**: Leadership, Problem-Solving, Process Optimization, Customer Focus  
-
-🔹 **Currently Learning**:  
-- **Three.js**: Bringing 3D graphics to web applications  
+**Founding Engineer (Core Full-Stack) @ Mainder · Automation / Integrations / AI Systems**  
+📍 Barcelona, Spain
 
 ---
 
-## 🛠️ **Projects**
+## 🚀 About
 
-### 📚 **[Entelequia Comic-Book Store](https://github.com/Hxrmx420/Entelequia-E-commerce)**
-
-A full-featured **e-commerce platform** for comic and manga enthusiasts, inspired by my family’s business. Developed with the **MERN stack**, it includes features like:
-
-- 🛒 **Product Management** (Add, Edit, Delete)  
-- 💳 **Shopping Cart & Payment Integration**  
-- ⭐ **User Reviews and Best-Seller Categories**  
-
-### 🌐 **[Unsocial](https://github.com/Hxrmx420/Unsocial--Social-Network)**
-
-A **full-stack social media platform** designed to enhance user engagement. Key features include:
-
-- 📝 **Post Creation and Management**  
-- 💬 **Nested Comment System**  
-- 🔒 **Secure User Authentication**  
+I build production software across backend, frontend, automation, and infrastructure.  
+Most of my work sits at the intersection of **integrations**, **worker systems**, **automation**, and **LLM-enabled workflows**.
 
 ---
 
-## 🎓 **Education**
+## 🧰 Tech Stack
 
-- **Full-Stack Web Development Bootcamp** – *ISDI Coders (2024)*  
-- **Máster en Full-Stack Web Development** – *CIPSA (2020 - 2021)*  
-- **Licenciatura en Marketing** – *UADE (2012 - 2019)*  
-- **Marketing & Business** – *Hogeschool van Amsterdam (2014 - 2015)*  
-- **Communication & Culture** – *University of Limerick (2010)*  
+**Frontend**
+- Next.js · React · TypeScript
+- Tailwind · shadcn/ui
+
+**Backend**
+- Ruby on Rails · Node.js (ecosystem)
+- Worker systems, scheduled execution, and job orchestration
+
+**Databases**
+- PostgreSQL · MySQL · MongoDB
+
+**Infra / Ops**
+- AWS (Flow & Ops)
+- Railway
+- Docker
+
+**Jobs / Queues**
+- Sidekiq
+- Redis (queues, coordination, rate limiting patterns when needed)
+
+**Automation / Scraping**
+- Python · Playwright
+- Browserless orchestration
+- Robust automations (timeouts, retries, UI variance, popups/modals)
+
+**APIs / Integrations**
+- Third-party API integrations
+- Webhooks, API contracts, authentication flows, and reliability patterns
+
+**LLMs / AI**
+- OpenAI · Gemini · Perplexity (API-driven workflows)
+- Prompt-based automation patterns and structured outputs
+
+**AI Coding / Dev Tools**
+- Cursor · Codex · Claude Code
+- MCP-based integrations to automate coding + operational workflows
 
 ---
 
-## 🌟 **Why Work With Me?**
+## 🏢 Mainder — Founding Engineer (Core Full-Stack)
 
-- **Leadership Experience**: Proven track record of leading teams and delivering results.  
-- **Technical Skills**: Proficient in full-stack development with a focus on modern web technologies.  
-- **Continuous Learner**: Committed to expanding my skills and staying updated with industry trends.  
-- **Collaboration**: Excellent at cross-functional teamwork and communication.
+I’m a founding engineer at Mainder (HRTech / Recruiting SaaS). We built the product from the start and we’ve owned critical systems across core backend, automation, and frontend:
+
+### Multiposting system 
+- We designed and implemented the multiposting system as a Ruby on Rails microservice
+- We built execution + orchestration around Redis + Sidekiq (scheduled/background workloads)
+- We worked on database workflows, reliability patterns, and operational robustness
+
+### Core backend 
+- We built and maintained backend workflows connecting product features, integrations, and data integrity
+- We implemented production-grade worker flows and third-party API integrations
+
+### Frontend 
+- I’m currently focused on the frontend with Next.js + TypeScript
+- I’m reworking product flows with a modular, maintainable architecture
+
+### InfoJobs Worker 
+- I rebuilt the InfoJobs Worker: an autonomous worker that scrapes InfoJobs and performs actions inside the portal
+- Implemented in Python + Playwright, designed to run end-to-end without manual intervention
+- Built to handle layout changes, dynamic UI behavior, and real-world variance
 
 ---
 
-## 📫 **Let’s Connect!**
+## 🧩 TRAQEER — Collaboration (Automation / Anti-Piracy)
 
-- **Email**: [emilianorozas@gmail.com](mailto:emilianorozas@gmail.com)  
-- **LinkedIn**: [Emiliano Rozas](https://www.linkedin.com/in/emilianorozas/)  
-- **GitHub**: [Hxrmx420](https://github.com/Hxrmx420)
+I collaborate with TRAQEER on automation systems for detection + enforcement:
+
+- Automated DMCA form submissions end-to-end (Playwright-based flows)
+- Built pirated content discovery via search queries using ScrapingDog
+- Integrated with the public Reddit API to find/report content and support takedown workflows
+- Redesigning the onboarding flow with React
 
 ---
 
-### 💬 **I’m Open to New Opportunities!**
+## 🤖 EntelequIA — Conversational AI for E-commerce
 
-Whether you’re looking for a **Full-Stack Developer**, a **Team Lead**, or a tech enthusiast to join your project, feel free to reach out. Let's build something amazing together! 🚀
+I built an AI conversational bot for an e-commerce context:
+- Conversation flows for discovery, support, and product guidance
+- Backend integrations to connect the assistant with catalog and business logic
 
+---
 
-<!---
-Hxrmx420/Hxrmx420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 Contact
+
+- Email: **emilianorozas@gmail.com**
+- Website: https://emiliano-rozas.com/
+- LinkedIn: https://www.linkedin.com/in/emilianorozas/
+- GitHub: https://github.com/HxrmxStudio
